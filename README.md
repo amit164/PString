@@ -1,17 +1,19 @@
-# PString
+# PString Assambly Project:  
 1. [Introduction](#introduction)  
-2. [main.s:](#main.s)  
-3. [Dependencies:](#dependencies)  
+2. [run_main.s](#run_mains)  
+3. [Dependencies](#dependencies)
+4. [Installation](#installation)
 
 
 ## Introduction
 As part of Computer Structur course we were given an exercise implement several methods similar to the string.h, just as pstring i.e. string's length is the first byte and the others are the string it self. The methods are:
 
-1. char pstrlen(Pstring* pstr) - return pstring's length.
-2. Pstring* replaceChar(Pstring* pstr, char oldChar, char newChar) - replace all the oldChar with new char in the pstring
-3. Pstring* pstrijcpy(Pstring* dst, Pstring* src, char i, char j) - copy the chars in src[i:j] to dst[i:j]
-4. Pstring* swapCase(Pstring* pstr) - replace all lower case to upper case and the opposite.
-5. int pstrijcmp(Pstring* pstr1, Pstring* pstr2, char i, char j) - compare between src[i:j] to dst[i:j]
+1. `char pstrlen(Pstring* pstr)` - return pstring's length.
+2. `Pstring* replaceChar(Pstring* pstr, char oldChar, char newChar)` - replace all the oldChar with new char in the pstring
+3. `Pstring* pstrijcpy(Pstring* dst, Pstring* src, char i, char j)` - copy the chars in src[i:j] to dst[i:j]
+4. `Pstring* swapCase(Pstring* pstr)` - replace all lower case to upper case and the opposite.
+5. `int pstrijcmp(Pstring* pstr1, Pstring* pstr2, char i, char j)` - compare between src[i:j] to dst[i:j]
+ 
 
 
 ## run_main.s:
