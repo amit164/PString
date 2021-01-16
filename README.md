@@ -27,7 +27,7 @@ The switch-case options are:
 ##### 54:
 * Using the swapCase function to swap every upper-case to lower-case in the two pstring.
 ##### 55:
-& Getting from the user two integers, i and j. Then call the pstrijcmp function with pstr1 as the first pstring and pstr2 as the second. Then prints the compare result.
+^ Getting from the user two integers, i and j. Then call the pstrijcmp function with pstr1 as the first pstring and pstr2 as the second. Then prints the compare result.
 
 
 ## Dependencies:
