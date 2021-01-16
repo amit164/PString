@@ -32,3 +32,14 @@ The switch-case options are:
 
 ## Dependencies:
 * MacOS / Linux
+
+## Installation:
+1. Clone the repository:  
+    ```
+    $ git clone https://github.com/amit164/PString.git
+    ```
+2. Write those commands in the terminal:
+    ```
+    $ make 
+    $ ./a.out
+    ```
