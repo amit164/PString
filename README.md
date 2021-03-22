@@ -1,5 +1,5 @@
 # PString Assambly Project:  
-Assembly implementaion to the "string.h" methods using P-String struct.
+Assembly implementaion to the string.h methods using P-String struct.
 1. [Introduction](#introduction)  
 2. [run_main.s](#run_mains)  
 3. [Dependencies](#dependencies)
